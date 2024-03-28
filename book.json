@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "bookName": "The Rebel in the Rye",
+      "author": "J.D. Windsong",
+      "image": "https://i.ibb.co/wL4tjLB/kindpng-7318921.png",
+      "review": "A mesmerizing journey through adolescent defiance and discovery. With lyrical prose and compelling characters, J.D. Windsong masterfully captures the essence of teenage rebellion, weaving a narrative that resonates with readers of all ages. As the protagonist navigates the tumultuous waters of self-discovery, readers are drawn into a world of raw emotions and poignant introspection, making this a must-read for anyone craving a deeper understanding of the human experience.",
+      "totalPages": 277,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["#ComingOfAge", "#LiteraryFiction"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "id": 2,
+      "bookName": "To Build a Bluejay",
+      "author": "Hazel Lee",
+      "image": "https://i.ibb.co/68NhpbF/kindpng-2193744-1.png",
+      "review": "A stirring narrative uncovering the layers of societal prejudice in the American South. Hazel Lee's poignant storytelling delves deep into the complexities of race, identity, and morality, offering readers a thought-provoking exploration of the human condition. Through vivid imagery and rich character development, Lee crafts a tale that challenges conventions and prompts introspection, leaving a lasting impression on those who embark on this literary journey.",
+      "totalPages": 281,
+      "rating": 4.3,
+      "category": "Fantasy",
+      "tags": ["#Classics", "#Fantasy"],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "id": 3,
+      "bookName": "The Catcher in the Rye",
+      "author": "Geo Orwellson",
+      "image": "https://i.ibb.co/M6bphzX/kindpng-4945926-1.png",
+      "review": "A haunting glimpse into a dystopian future, strikingly pertinent in today's world. Geo Orwellson's prophetic vision of a totalitarian society captivates the imagination with its stark portrayal of oppression and resistance. Through masterful world-building and chilling realism, Orwellson invites readers to contemplate the dangers of unchecked authority and the fragility of freedom. 2084 is not merely a novel; it's a warning, a call to action, and a testament to the enduring power of literature to provoke change.",
+      "totalPages": 328,
+      "rating": 4.9,
+      "category": "Fiction",
+      "tags": ["#Dystopian", "#Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "id": 4,
+      "bookName": "The Grand Gatsby",
+      "author": "F. S. Fitzgerald",
+      "image": "https://i.ibb.co/PZqQp7B/kindpng-1064993.png",
+      "review": "A captivating exploration of aspiration amid opulence and indulgence. F. S. Fitzgerald's timeless tale of love, longing, and the pursuit of the American Dream transports readers to the glamorous world of the Roaring Twenties. With sumptuous prose and intricate character dynamics, Fitzgerald crafts a narrative that transcends generations, inviting readers to ponder the true nature of wealth, success, and happiness. The Grand Gatsby is not just a novel; it's a literary masterpiece that continues to enchant and inspire readers around the globe.",
+      "totalPages": 180,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["#Classics", "#Romance"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+    },
+    {
+      "id": 5,
+      "bookName": "Prestige and Prejudice",
+      "author": "John Austen",
+      "image": "https://i.ibb.co/PZqQp7B/kindpng-1064993.png",
+      "review": "A timeless saga of affection, etiquette, and societal norms. John Austen's classic tale of love and misunderstanding unfolds against the backdrop of Regency-era England, captivating readers with its wit, charm, and social commentary. Through vibrant characters and sparkling dialogue, Austen navigates themes of class, marriage, and individuality with grace and humor, leaving an indelible mark on the literary landscape. Prestige and Prejudice is more than just a novel; it's a testament to Austen's enduring legacy as one of the greatest writers of all time.",
+      "totalPages": 432,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["#Classics", "#Romance"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    },
+    {
+      "id": 6,
+      "bookName": "Henry Potter and the Stone",
+      "author": "Joanne Rowling",
+      "image": "https://i.ibb.co/68NhpbF/kindpng-2193744-1.png",
+      "review": "An enchanting voyage into the mystical realms of Harry Potter. Joanne Rowling's debut novel introduces readers to a world of wonder and magic, where ordinary becomes extraordinary and imagination knows no bounds. Through vivid descriptions and enchanting storytelling, Rowling invites readers on a spellbinding adventure filled with friendship, courage, and the triumph of good over evil. Henry Potter and the Sorcerer's Stone is more than just a book; it's an enduring symbol of hope and resilience that continues to captivate readers of all ages.",
+      "totalPages": 332,
+      "rating": 4.5,
+      "category": "Fantasy",
+      "publisher": "Bloomsbury Publishing",
+      "tags": ["#Magic", "#Adventure"],
+      "yearOfPublishing": 1997
+    }
+  ]
